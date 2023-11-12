@@ -1,0 +1,12 @@
+https://mediafilez.forgecdn.net/files/4762/985/cloth-config-12.0.109-fabric.jar
+https://mediafilez.forgecdn.net/files/4763/645/entityculling-forge-1.6.2-mc1.20.1.jar
+https://mediafilez.forgecdn.net/files/4712/868/jei-1.20.1-forge-15.2.0.27.jar
+https://mediafilez.forgecdn.net/files/4841/246/journeymap-1.20.1-5.9.16-neoforge.jar
+https://cdn.modrinth.com/data/VHSdL301/versions/7OKjECF7/KeepSomeInventory-MOD-v1.3.0.jar
+https://cdn.modrinth.com/data/NRjRiSSD/versions/AK7fR5Ja/memoryleakfix-forge-1.17%2B-1.1.2.jar
+https://drive.google.com/u/0/uc?id=1Pk3eK7EeooXMeDKpn0ZVd2HZeEf4a4nA&export=download
+https://mediafilez.forgecdn.net/files/4745/380/SimpleLogin-1.20.1-1.0.2-all.jar
+https://mediafilez.forgecdn.net/files/4629/624/theoneprobe-1.20.1-10.0.1.jar
+https://mediafilez.forgecdn.net/files/4836/244/TravelersBackpack-1.20.1-9.1.11.jar
+https://mediafilez.forgecdn.net/files/4799/959/Vampirism-1.20.1-1.9.3.jar
+https://mediafilez.forgecdn.net/files/4835/783/voicechat-fabric-1.20.1-2.4.28.jar
